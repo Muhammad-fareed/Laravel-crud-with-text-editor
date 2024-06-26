@@ -25,8 +25,8 @@ Key Features:
 Clone this repository
 
 ```bash
-git clone https://github.com/yourusername/yourproject.git
-cd yourproject
-npm install
-npm start
+git clone https://github.com/Muhammad-fareed/Laravel-crud-with-text-editor.git
+composer install
+php artisan migrate
+php artisan serve
 
