@@ -1,2 +1,32 @@
 # Laravel-crud-with-text-editor
-A simple crud operation in Laravel with implementation of text editor.
+
+Basic Crud Operation with Text Editor Implementation
+
+## Table of Contents
+
+- [Laravel-crud-with-text-editor](#laravel-crud-with-text-editor)
+  - [Table of Contents](#table-of-contents)
+  - [Introduction](#introduction)
+  - [Features](#features)
+  - [Installation](#installation)
+
+## Introduction
+
+This Project Provide you with a simple crud in laravel in addition i have implemented Summernote text-editor with it.
+
+## Features
+
+List the key features of your project:
+- Basic CRUD operations
+- Integrated text editor
+
+## Installation
+
+Clone this repository
+
+```bash
+git clone https://github.com/yourusername/yourproject.git
+cd yourproject
+npm install
+npm start
+
