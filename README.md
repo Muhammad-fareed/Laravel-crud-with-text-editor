@@ -16,7 +16,7 @@ This Project Provide you with a simple crud in laravel in addition i have implem
 
 ## Features
 
-List the key features of your project:
+Key Features:
 - Basic CRUD operations
 - Integrated text editor
 
